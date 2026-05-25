@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:534AB7&height=200&section=header&text=Karthik%20Nallam&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=ServiceNow%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=55&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:534AB7&height=200&section=header&text=Karthik%20Nallam&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=ServiceNow%20Engineer%20%7C%20BI%20Specialist%20%7C%20Agentic%20AI%20Builder&descAlignY=55&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=ServiceNow+Engineer+%F0%9F%94%A7;Agentic+AI+%26+MCP+Builder+%F0%9F%A4%96;Power+BI+%7C+SQL+%7C+Tableau+%7C+Excel+%F0%9F%93%8A;Learning+in+Public+%F0%9F%9A%80)](https://github.com/Karthik-Nallam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=ServiceNow+Engineer+%F0%9F%94%A7;BI+%26+Analytics+Specialist+%F0%9F%93%8A;Agentic+AI+%26+MCP+Builder+%F0%9F%A4%96;8+Years+Enterprise+Experience+%F0%9F%9A%80;Learning+in+Public+%F0%9F%92%AA)](https://github.com/Karthik-Nallam)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthikknallam/)
 [![GitHub followers](https://img.shields.io/github/followers/Karthik-Nallam?style=for-the-badge&color=185FA5)](https://github.com/Karthik-Nallam)
@@ -14,10 +14,24 @@
 
 ## About Me
 
-- ServiceNow Engineer with full platform experience — Admin to Agentic AI
+- 8 years of enterprise experience across BI, analytics automation and data governance
+- ServiceNow Engineer — full platform from Admin to Agentic AI
+- Currently Senior IT Knowledge Reporting & Tools Analyst at Paychex India
+- Previously at ABB Global — travel and transportation analytics using SAP Concur
 - Building real MCP (Model Context Protocol) server integrations with AI agents
 - Sharing everything I learn for free — real work, real examples
 - Based in Bengaluru, India
+
+---
+
+## Impact & Achievements
+
+| Achievement | Result |
+|-------------|--------|
+| Reporting automation delivered | 300+ hours saved |
+| Improvement in reporting efficiency | 35% via SQL optimisation and Power BI automation |
+| Reduction in data processing time | 40% via optimised ETL pipelines |
+| Documentation compliance | 100% via self-introduced Quarterly Review Framework |
 
 ---
 
@@ -31,7 +45,7 @@
 | ITOM | Discovery, Service Mapping, Event Management |
 | CSM | Customer service cases, portals, SLAs |
 | HR | Onboarding, offboarding, employee journeys |
-| CMDB | CI classes, relationships, health scoring |
+| CMDB | CI classes, relationships, health scoring — CIS-DF Certified |
 | Agentic AI | MCP servers, AI agents, NLU flows, automation pipelines |
 
 ---
@@ -47,6 +61,8 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Agentic_AI-534AB7?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-Data_Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Data_Transform-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-APIs-0F6E56?style=for-the-badge)
 
 </div>
