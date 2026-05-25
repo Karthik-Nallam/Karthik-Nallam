@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=ServiceNow+Engineer+%F0%9F%94%A7;Agentic+AI+%26+MCP+Builder+%F0%9F%A4%96;Power+BI+%7C+SQL+%7C+Tableau+%7C+Excel+%F0%9F%93%8A;Learning+in+Public+%F0%9F%9A%80)](https://github.com/Karthik-Nallam)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthikknallam/)
 [![GitHub followers](https://img.shields.io/github/followers/Karthik-Nallam?style=for-the-badge&color=185FA5)](https://github.com/Karthik-Nallam)
 [![Profile Views](https://komarev.com/ghpvc/?username=Karthik-Nallam&style=for-the-badge&color=534AB7)](https://github.com/Karthik-Nallam)
 
@@ -76,8 +76,11 @@
 
 <div align="center">
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthik-Nallam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthik-Nallam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Nallam&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthik-Nallam&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -87,7 +90,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Nallam-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Nallam-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthikknallam/)
 [![Blog](https://img.shields.io/badge/Blog-karthiks--tech--world-FF6B35?style=for-the-badge&logo=rss)](https://karthiks-tech-world.bearblog.dev)
 [![Email](https://img.shields.io/badge/Email-karthiknallam.26-D14836?style=for-the-badge&logo=gmail)](mailto:karthiknallam.26@gmail.com)
 
